@@ -1,0 +1,23 @@
+.vite-ssg-temp
+
+/node_modules
+.idea
+.env
+.DS_Store
+/dist
+/dist-ssr
+*.vscode
+*.local
+
+# lock
+pnpm-lock.yaml
+
+*.log
+
+.vscode/settings.json
+
+# Coverage
+.eslintcache
+.nyc_output
+coverage
+
