@@ -133,9 +133,3 @@ alert("Script justo antes del cierre del body");
 </body>
 </html>
 ```
-
-### Ejercicio 5: Prueba tus Conocimientos
-
-**Descripción:**
-
-Responde las siguientes preguntas para poner a prueba tus conocimientos sobre la inclusión de JavaScript en un archivo HTML.
