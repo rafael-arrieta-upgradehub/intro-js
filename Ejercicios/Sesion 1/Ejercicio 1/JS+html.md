@@ -139,18 +139,3 @@ alert("Script justo antes del cierre del body");
 **Descripción:**
 
 Responde las siguientes preguntas para poner a prueba tus conocimientos sobre la inclusión de JavaScript en un archivo HTML.
-
-**Preguntas:**
-
-1. ¿Cuál es la forma más común de incluir JavaScript en un archivo HTML?
-2. ¿Qué atributo se utiliza para enlazar un archivo JavaScript externo a un archivo HTML?
-3. ¿Cuál es la diferencia entre los atributos `async` y `defer` al enlazar un archivo JavaScript externo?
-4. ¿Por qué es importante controlar la carga de los scripts en un archivo HTML?
-5. ¿Cuál es la ventaja de colocar un script en el `<head>` con el atributo `defer`?
-6. ¿Cuál es la ventaja de colocar un script justo antes del cierre del `<body>`?
-7. ¿Qué sucede si un script interactúa con elementos HTML antes de que estén completamente cargados?
-8. ¿Qué evento se puede utilizar para asegurarse de que el DOM esté completamente cargado antes de ejecutar un script?
-9. ¿Cuál es la diferencia entre escribir código JavaScript directamente en un archivo HTML y enlazar un archivo JavaScript externo?
-10. ¿Cuál es tu método preferido para incluir JavaScript en un archivo HTML y por qué?
-11. ¿Qué otros métodos conoces para incluir JavaScript en un archivo HTML?
-12. ¿Qué consideraciones debes tener en cuenta al decidir dónde colocar tus scripts en un archivo HTML?
