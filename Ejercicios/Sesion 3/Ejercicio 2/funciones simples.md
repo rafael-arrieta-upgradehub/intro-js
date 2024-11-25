@@ -31,7 +31,7 @@ Antes de comenzar a escribir cualquier código, asegúrate de leer cuidadosament
 
 #### Bonus:
 
-Crea una función `mostrarAlertaConSaludo` que acepte dos parámetros: `nombre` y `mensaje`. La función debe mostrar una alerta con el mensaje: `"Hola [nombre], [mensaje]"`. Modifica el HTML para incluir un segundo campo de entrada para el nombre y llama a esta nueva función cuando se haga clic en el botón.
+Crea una función de callback `mostrarAlertaConSaludo` que acepte dos parámetros: `nombre` y `mensaje`. La función debe mostrar una alerta con el mensaje: `"Hola [nombre], [mensaje]"`. Modifica el HTML para incluir un segundo campo de entrada para el nombre y llama a esta nueva función un segundo despues de que se haga clic en el botón.
 
 __¡Feliz codificación!__ :heart:
 
